@@ -1,0 +1,10 @@
+body {
+    background: rgb(133, 126, 106);
+    font-family: "Advent Pro", serif;
+    font-size: 22px;
+}
+
+.image {
+    width: 500px;
+    height: auto;
+}
